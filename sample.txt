@@ -1,3 +1,1 @@
-
-sample 
-newline
+new line2
